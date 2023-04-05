@@ -33,6 +33,10 @@ Display all the images with their respective filters.
  Developed By   : ANISH MJ
  Register Number: 212221230005
 ~~~
+## OUTPUT
+
+### Original Image
+![a](original.png)
 
 ### 1. Smoothing Filters
 
