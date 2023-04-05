@@ -58,7 +58,7 @@ plt.axis('off')
 
 
 
-```
+
 ii) Using Weighted Averaging Filter
 ~~~
 kernel1 = np.array([[8,17,7],[10,64,10],[3,5,4]])/64
