@@ -104,6 +104,7 @@ plt.axis('off')
 
 
 iv) Using Median Filter
+~~~
 median = cv2.medianBlur(src=image3,ksize=11)
 plt.imshow(median)
 
@@ -117,12 +118,7 @@ plt.subplot(1,2,2)
 plt.imshow(median)
 plt.title("MEDIAN BLUR")
 plt.axis('off')
-
-
-
-
-
-```
+~~~
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
