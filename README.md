@@ -158,7 +158,6 @@ plt.title("LAPLACIAN OPERATOR")
 plt.axis('off')
 ~~~
 
-## OUTPUT:
 
 ### Original Image
 ![a](original.png)
