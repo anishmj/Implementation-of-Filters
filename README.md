@@ -33,7 +33,6 @@ Display all the images with their respective filters.
  Developed By   : ANISH MJ
  Register Number: 212221230005
 ~~~
-## OUTPUT
 
 
 
@@ -158,6 +157,7 @@ plt.title("LAPLACIAN OPERATOR")
 plt.axis('off')
 ~~~
 
+## OUTPUT:
 
 ### Original Image
 ![a](original.png)
