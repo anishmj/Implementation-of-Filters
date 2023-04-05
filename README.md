@@ -35,8 +35,7 @@ Display all the images with their respective filters.
 ~~~
 ## OUTPUT
 
-### Original Image
-![a](original.png)
+
 
 ### 1. Smoothing Filters
 
@@ -160,6 +159,10 @@ plt.axis('off')
 ~~~
 
 ## OUTPUT:
+
+### Original Image
+![a](original.png)
+
 ### 1. Smoothing Filters
 </br>
 
